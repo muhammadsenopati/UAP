@@ -99,12 +99,6 @@ Pengujian dengan JUnit disediakan untuk memverifikasi:
 - Validasi format tanggal.
 - Komunikasi API.
 
-## Pengembangan Selanjutnya
-- **Peningkatan UI/UX**: Migrasi ke JavaFX untuk komponen UI yang lebih modern.
-- **Fitur Pencarian**: Tambahkan bilah pencarian untuk memfilter event.
-- **Fitur API**: Termasuk permintaan GET untuk mengambil data event yang ada.
-- **Penyimpanan Data**: Tambahkan database lokal untuk penyimpanan event secara offline.
-
 ## Kontributor
 - [Muhammad Senopati Panotogomo](https://github.com/muhammadsenopati)
 
