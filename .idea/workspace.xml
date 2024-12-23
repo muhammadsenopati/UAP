@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c76665f5-fe5d-4996-80c0-70a1c5e0e02e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloFX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloFX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Latihanpraktikum2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Latihanpraktikum2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Latihanpraktikum2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Latihanpraktikum2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas 1 Modul 3/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas 1 Modul 3/src/RestaurantOrderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas 1 modul 4/src/Siswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAP/src/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAP/src/EventDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAP/src/EventManagementFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codelab2/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kacau/src/HardwareStoreApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kacau/src/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kacau/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kacau/src/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobaterus/src/Barang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobaterus/src/Pembelian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobaterus/src/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobaterus/src/TokoBangunan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobatugas3/src/Barang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobatugas3/src/Pembelian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nyobatugas3/src/TokoBangunan.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qZYaRDMk1EIuvqarYkpMlo7oan" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EventManagement.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/muhammadsenopati/IdeaProjects/proglan/ProglanModul3/untitled1/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c76665f5-fe5d-4996-80c0-70a1c5e0e02e" name="Changes" comment="" />
+      <created>1734871628429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734871628429</updated>
+    </task>
+    <servers />
+  </component>
+</project>
